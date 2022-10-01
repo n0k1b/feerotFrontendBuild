@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f284cd9.css",
+    "main.js": "/static/js/main.be742406.js",
+    "static/media/active.png": "/static/media/active.82918dd29a52bb18e5e6.png",
+    "static/media/bata_banner.jpg": "/static/media/bata_banner.a8c3ad38aa167a3caba7.jpg",
+    "static/media/babies.png": "/static/media/babies.3cdb4a1b9fba382d73fa.png",
+    "static/media/womens.png": "/static/media/womens.9dcbec0755bfe3b4216d.png",
+    "static/media/mens.png": "/static/media/mens.9a8ab99579431b4cb75e.png",
+    "static/media/odyssey.jpg": "/static/media/odyssey.b58e47990af35c5cb0b8.jpg",
+    "static/media/shoe.webp": "/static/media/shoe.7c9c5e04726f66aaf10a.webp",
+    "static/media/extra-3.webp": "/static/media/extra-3.ececc667407205e35214.webp",
+    "static/media/extra-6.webp": "/static/media/extra-6.8acc15c59977e9f65168.webp",
+    "static/media/extra-4.webp": "/static/media/extra-4.d54783ca32f35215c935.webp",
+    "static/media/extra-5.webp": "/static/media/extra-5.88a3281ac03f98a4358e.webp",
+    "static/media/3.webp": "/static/media/3.c1d8a9e69db6c75aa0e7.webp",
+    "index.html": "/index.html",
+    "static/media/1.webp": "/static/media/1.b15ef638b361fda0a734.webp",
+    "static/media/4.webp": "/static/media/4.36b6a1a0c2b51c627ae4.webp",
+    "static/media/2.webp": "/static/media/2.2dd34d4c93b54e679ef0.webp",
+    "main.6f284cd9.css.map": "/static/css/main.6f284cd9.css.map",
+    "main.be742406.js.map": "/static/js/main.be742406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f284cd9.css",
+    "static/js/main.be742406.js"
+  ]
+}
