@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7ebea96a.css",
-    "main.js": "/static/js/main.ee45a1dc.js",
+    "main.js": "/static/js/main.bf8428ea.js",
     "static/media/active.png": "/static/media/active.82918dd29a52bb18e5e6.png",
     "static/media/bata_banner.jpg": "/static/media/bata_banner.a8c3ad38aa167a3caba7.jpg",
     "static/media/babies.png": "/static/media/babies.3cdb4a1b9fba382d73fa.png",
@@ -19,10 +19,10 @@
     "static/media/4.webp": "/static/media/4.36b6a1a0c2b51c627ae4.webp",
     "static/media/2.webp": "/static/media/2.2dd34d4c93b54e679ef0.webp",
     "main.7ebea96a.css.map": "/static/css/main.7ebea96a.css.map",
-    "main.ee45a1dc.js.map": "/static/js/main.ee45a1dc.js.map"
+    "main.bf8428ea.js.map": "/static/js/main.bf8428ea.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebea96a.css",
-    "static/js/main.ee45a1dc.js"
+    "static/js/main.bf8428ea.js"
   ]
 }
