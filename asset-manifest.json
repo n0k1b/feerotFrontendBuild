@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.966bac1e.css",
-    "main.js": "/static/js/main.5cb1fc09.js",
+    "main.css": "/static/css/main.c778b41e.css",
+    "main.js": "/static/js/main.970111e7.js",
     "static/media/bata_banner.jpg": "/static/media/bata_banner.a8c3ad38aa167a3caba7.jpg",
     "static/media/shoe.webp": "/static/media/shoe.7c9c5e04726f66aaf10a.webp",
     "static/media/extra-3.webp": "/static/media/extra-3.ececc667407205e35214.webp",
@@ -13,11 +13,11 @@
     "static/media/1.webp": "/static/media/1.b15ef638b361fda0a734.webp",
     "static/media/4.webp": "/static/media/4.36b6a1a0c2b51c627ae4.webp",
     "static/media/2.webp": "/static/media/2.2dd34d4c93b54e679ef0.webp",
-    "main.966bac1e.css.map": "/static/css/main.966bac1e.css.map",
-    "main.5cb1fc09.js.map": "/static/js/main.5cb1fc09.js.map"
+    "main.c778b41e.css.map": "/static/css/main.c778b41e.css.map",
+    "main.970111e7.js.map": "/static/js/main.970111e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.966bac1e.css",
-    "static/js/main.5cb1fc09.js"
+    "static/css/main.c778b41e.css",
+    "static/js/main.970111e7.js"
   ]
 }
